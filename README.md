@@ -1,5 +1,5 @@
 # Arduino-Radar
-Proyecto desarrollado para la materia de Ingeniería de Sistemas Robóticos.
+Proyecto desarrollado para la materia de Ingeniería de Sistemas Robóticos - 2024.
 
 # Objetivo:
 Desarrollar un Sistema de radar casero con arduino para la deteccion y alerta de proximidad.
